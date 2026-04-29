@@ -40,3 +40,7 @@ node server.js
 
 6. Run the frontend:
 npm start
+
+for login page:-
+Email :- test123@gmail.com
+Password :- 123456
